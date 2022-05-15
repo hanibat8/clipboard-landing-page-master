@@ -1,3 +1,4 @@
+URL - https://6280cfef413ffe2104c549a7--quiet-flan-f3b995.netlify.app/
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
